@@ -1,6 +1,6 @@
 {
   "meta": {
-    "title": "Shaili Patel — Portfolio",
+    "title": "Shrey — Portfolio",
     "favicon": ""
   },
   "theme": {
@@ -13,7 +13,7 @@
     "--nav-h": "68px"
   },
   "hero": {
-    "name": "Shaili Patel",
+    "name": "Shrey Viradiya",
     "availability": "Open to new opportunities",
     "profilePic": "./assets/profilePic.jpg",
     "headline": [
@@ -21,7 +21,7 @@
       "<em>scalable</em>",
       "systems"
     ],
-    "tagline": "I'm <strong>Shaili Patel</strong> — a Software Engineer with 3+ years specializing in Java, Spring Boot, Kafka, and Microservices. I build event-driven backends that are fast, reliable, and observable.",
+    "tagline": "I'm <strong>Shrey Viradiya</strong> — a Software Engineer with 3+ years specializing in Java, Spring Boot, Kafka, and Microservices. I build event-driven backends that are fast, reliable, and observable.",
     "ctaPrimary": {
       "label": "↓ Download Resume",
       "href": "./assets/Shaili_Resume.pdf"
